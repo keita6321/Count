@@ -35,7 +35,7 @@ class ViewController: UIViewController {
     }
     @IBAction func reset(){
         num = 0
-        label.text = String(num)
+        label.text = String(num)//aaa
     }
 
 }
